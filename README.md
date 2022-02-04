@@ -12,8 +12,6 @@ I am a versatilist full stack developer based in Portugal 🌐  with a particula
 </p>
 
 <!-- <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/> -->
-<br/>
-  
 ### 🧐 More About Me:
 
 - 🤝 &nbsp; I’m a fan of open source
