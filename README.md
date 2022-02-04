@@ -37,11 +37,8 @@ I am a versatilist full stack developer based in Portugal 🌐  with a particula
 
 
 ### 📊 Github Stats
-<br>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlosmiei&show_icons=true&theme=dark&hide_title=true)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/carlosmiei/github-readme-stats?theme=dark&layout=compact) -->
-
 
 
 <a href='https://github.com/carlosmiei/github-stats-transparent'>
@@ -51,7 +48,6 @@ I am a versatilist full stack developer based in Portugal 🌐  with a particula
 <br>
 
 ### 🛠️  Projects
-<br>
 <a href="https://github.com/ccxt/ccxt">
     <img style="float: left;" src="https://github-readme-stats.vercel.app/api/pin/?username=ccxt&repo=ccxt" />
 </a>
