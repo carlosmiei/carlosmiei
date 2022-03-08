@@ -40,7 +40,6 @@ I am a versatilist full stack developer based in Portugal 🌐  with a particula
 
 <a href='https://github.com/carlosmiei/github-stats-transparent'>
 
-
 </a>
 <br>
 
