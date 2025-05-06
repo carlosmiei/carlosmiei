@@ -1,6 +1,3 @@
-## Hey there 👋 , I'm Carlos!
-
-I am a versatilist full stack developer based in Portugal 🌐  with a particular interest in the web, cryptocurrencies and cybersecurity.
 
 <p align="left">
   <a href="https://github.com/carlosmiei/carlosmiei">
